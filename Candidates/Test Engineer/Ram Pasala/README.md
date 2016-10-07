@@ -9,7 +9,7 @@ Currently involved with **NodeJS**, **Protractor**, **WebdriverJS**. A JS enthus
 ### My Presence in Tech Communities
 
 * [GitHub](https://github.com/igniteram)
-* [StackOverFlow](stackoverflow.com/cv/igniteram)
+* [StackOverFlow](http://stackoverflow.com/cv/igniteram)
 * [Gitter](https://gitter.im/angular/protractor)
 * [LinkedIn](https://in.linkedin.com/in/rpasala)
 * [Medium](https://medium.com/@igniteram)
